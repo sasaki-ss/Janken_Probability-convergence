@@ -1,0 +1,2 @@
+# Janken_Probability-convergence
+じゃんけんを自動的に1万回行い確率が収束するか実験したものです
